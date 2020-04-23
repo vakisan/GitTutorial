@@ -40,3 +40,5 @@ Step 1 to 6 can be skipped if using the command git clone "url" if you already h
 Run following line in bash to get status of all the files which are added to index and ready to commit--> git status ;
 Run following line in bash to add files to the index--> git add ;
 Run following line in bash to commit changes--> git commit ;
+
+See GitCommands.txt from here
