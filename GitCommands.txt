@@ -1,0 +1,6 @@
+Git/GitHub Tutorial
+
+Adding to Local Repository
+-git status ;
+-git add;
+-git commit;
